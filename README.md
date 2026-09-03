@@ -1,4 +1,4 @@
-# SkillSwap — Student Skill Exchange Platform 🎓🔁
+# SkillSwap — "Student Skill Exchange Platform"🎓🔁
 
 An Android app (built with Jetpack Compose) where students trade skills with each other — teach what you know, learn what you don't, schedule sessions, chat, and earn points along the way.
 
